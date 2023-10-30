@@ -6,7 +6,7 @@ This project creates a series of pacman images and simulates their motion around
 # Roadmap Of Future Improvements 
 I would like to add the functionality of deleting PacMen
 
-#License Information
+# License Information
 MIT License
 
 Copyright (c) 2023 Christian Chidester
