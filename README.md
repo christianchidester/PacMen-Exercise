@@ -1,4 +1,4 @@
-# PacMen-Exercise-
+# PacMen-Exercise
 
 # Description
 This project creates a series of pacman images and simulates their motion around the page. Their positions and velocity are random
